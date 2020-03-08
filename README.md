@@ -1,5 +1,5 @@
 # PostBox
-Server endpoint for capturing HTTP(S) request data for logging, forwarding and analysis
+Server endpoint for capturing HTTP(S) request data for logging, forwarding and analysis. Similar service at https://webhook.site, we need the source for that to make our own.
 
 # Requirement
 
